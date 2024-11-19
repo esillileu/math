@@ -1,10 +1,9 @@
 ---
 tags:
-  - math
-  - algebra
-  - group
+  - math/algebra/structure/group
 aliases:
   - 가환군
+  - 아벨군
 ---
 # Abelian Group
 > [[Binary Operation#교환법칙(가환)|가환]]을 만족시키는 [[Group|군]]

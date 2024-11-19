@@ -1,8 +1,6 @@
 ---
 tags:
-  - math
-  - algebra
-  - group
+  - math/algebra/structure/group
 aliases:
   - 이면체군
 ---

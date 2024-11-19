@@ -1,7 +1,6 @@
 ---
 tags:
-  - math
-  - algebra
+  - math/algebra/structure
 aliases:
   - 모노이드
 ---
